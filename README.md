@@ -62,7 +62,7 @@ chmod +x Analyzer-Permission-Editor.sh
 3. Run the script:
 
 ```bash
-./file_analyzer.sh
+./Analyzer-Permission-Editor.sh
 ```
 
 4. Follow the prompts:
