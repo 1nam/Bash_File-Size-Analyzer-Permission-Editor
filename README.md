@@ -49,14 +49,14 @@ The script highlights **largest files**, showing actual sizes, and provides a sm
 1. Clone or download the script:
 
 ```bash
-git clone https://github.com/1nam/file-size-analyzer.git
-cd file-size-analyzer
+git clone https://github.com/1nam/Bash_File-Size-Analyzer-Permission-Editor/tree/main
+cd Bash_File-Size-Analyzer-Permission-Editor
 ```
 
 2. Make the script executable:
 
 ```bash
-chmod +x file_analyzer.sh
+chmod +x Analyzer-Permission-Editor.sh
 ```
 
 3. Run the script:
