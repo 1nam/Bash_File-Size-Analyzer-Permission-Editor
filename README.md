@@ -49,7 +49,7 @@ The script highlights **largest files**, showing actual sizes, and provides a sm
 1. Clone or download the script:
 
 ```bash
-git clone https://github.com/yourusername/file-size-analyzer.git
+git clone https://github.com/1nam/file-size-analyzer.git
 cd file-size-analyzer
 ```
 
