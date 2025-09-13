@@ -97,6 +97,7 @@ chmod +x Analyzer-Permission-Editor.sh
 * Permission changes affect the **user owner** (`u+r`, `u-w`, etc.)
 * Temporary files for chart generation are automatically removed
 
+: i included a whiptail & zenity gui version that can be ran solo.
 ---
 
 ## License
